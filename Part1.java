@@ -5,6 +5,10 @@ public class Part1 {
         Animal dog = new Animal(4);
         System.out.println(dog);
         dog.walk();
+
+        Animal duck = new Animal(2);
+        System.out.println(duck);
+        duck.walk();
     }
 }
 
